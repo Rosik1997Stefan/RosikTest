@@ -92,3 +92,11 @@
 .imgbg a{
 	color: white;
 }
+.navbar-nav>li>a:hover{
+	padding-top: 20px;
+	padding-bottom: : 20px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+}
+
